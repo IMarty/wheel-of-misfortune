@@ -1,0 +1,17 @@
+exports.victims = [
+  { name: 'Mitchio' },
+  { name: 'Joanna' },
+  { name: 'Lucianna' },
+  { name: 'Mitchio' },
+  { name: 'Joanna' },
+  { name: 'Lucianna' },
+  { name: 'Mitchio' },
+  { name: 'Joanna' },
+  { name: 'Lucianna' },
+  { name: 'Mitchio' },
+  { name: 'Joanna' },
+  { name: 'Lucianna' },
+  { name: 'Mitchio' },
+  { name: 'Joanna' },
+  { name: 'Lucianna' },
+];
